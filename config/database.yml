@@ -1,0 +1,18 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: etltest2_development
+  pool: 5
+  username: root
+  password:
+
+
+etl_execution:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: etl_execution_2
+  pool: 5
+  username: root
+  password:
