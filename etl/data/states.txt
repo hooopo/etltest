@@ -1,0 +1,11 @@
+id,region_id,name,description
+1,1,OR,Oregon
+2,1,WA,Washington
+3,2,IL,Illinois
+4,2,AR,Arkansas
+5,2,CO,Colorado
+6,3,NH,New Hampshire
+7,3,NY,New York
+8,4,GA,Georgia
+9,4,FL,Florida
+10,4,AL,Alabama

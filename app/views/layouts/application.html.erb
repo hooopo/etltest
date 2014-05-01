@@ -1,14 +1,18 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <title>Etltest2</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
-  <%= javascript_include_tag "application" %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
+  <head>
+   <title>Etltest2</title>
+   <%= stylesheet_link_tag    "application", :media => "all" %>
+   <%= javascript_include_tag "application" %>
+   <%= csrf_meta_tags %>
+  </head>
+  <body>
+    <div id="page">
 
-<%= yield %>
-
-</body>
+      <div id="content">
+        <%= yield %>
+      </div>
+      
+      <div id="footer">&nbsp;</div>
+    </div>
+  </body>
 </html>

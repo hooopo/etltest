@@ -1,13 +1,14 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.17'
+gem "pry-rails"
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'mysql2'
-gem "activewarehouse-etl"
-gem 'activewarehouse'
+gem "activewarehouse-etl", "~> 1.0.0"
+gem 'activewarehouse', :git => "https://github.com/hooopo/activewarehouse.git" #:path => "~/w/warehouse/activewarehouse"
 
 
 # Gems used only for assets and not required

@@ -1,0 +1,24 @@
+# Rails: 3.2.17
+# ActiveWarehouse: 0.4.0
+# ActiveWarehouse-etl: 1.0.0
+
+# to install the gem
+bundle install
+
+# to make the application
+cd etltest
+
+rake db:create:all
+rake db:migrate
+rake warehouse:build_date_dimension
+
+etl etl/products.ctl
+etl etl/stores.ctl
+etl etl/pos_line_item_facts.ctl
+
+rake warehouse:rebuild
+rails s -p 3000
+
+
+# Go to http://localhost:3000/ 
+# more information will be available soon

@@ -1,0 +1,34 @@
+id,description,suggested_retail_price
+1,Spicy Chicken,0.59
+2,Spicy Beef,1.86
+3,Spicy Shrimp,1.93
+4,Saucy Chicken,2.66
+5,Saucy Beef,2.53
+6,Saucy Shrimp,1.01
+7,Curried Chicken,1.60
+8,Curried Beef,2.50
+9,Curried Shrimp,2.30
+10,Happy Wheaties,2.64
+11,Happy O's,0.23
+12,Happy Rings,2.16
+13,Choco Wheaties,1.75
+14,Choco O's,0.40
+15,Choco Rings,1.36
+16,Puffed Wheaties,0.36
+17,Puffed O's,0.06
+18,Puffed Rings,2.11
+19,Chunky Wheaties,0.35
+20,Chunky O's,0.85
+21,Chunky Rings,0.88
+22,Long Rice,1.12
+23,Long Pasta,0.99
+24,Brown Rice,0.76
+25,Brown Pasta,0.69
+26,White Rice,0.90
+27,White Pasta,2.94
+28,Whole Wheat Rice,0.21
+29,Whole Wheat Pasta,0.93
+30,Whole Wheat Bread,0.21
+31,White Bread,2.37
+32,Bran Bread,0.41
+33,Low Carb Bread,2.04

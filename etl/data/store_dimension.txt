@@ -1,0 +1,33 @@
+1	Store #1	Northwest	Oregon
+2	Store #2	Northwest	Oregon
+3	Store #3	Northwest	Oregon
+4	Store #4	Northwest	Washington
+5	Store #5	Northwest	Washington
+6	Store #6	Northwest	Washington
+7	Store #7	Northwest	Washington
+8	Store #8	Northwest	Washington
+9	Store #9	Midwest	Illinois
+10	Store #10	Midwest	Illinois
+11	Store #11	Midwest	Illinois
+12	Store #12	Midwest	Illinois
+13	Store #13	Midwest	Arkansas
+14	Store #14	Midwest	Colorado
+15	Store #15	Midwest	Colorado
+16	Store #16	Midwest	Colorado
+17	Store #17	Midwest	Colorado
+18	Store #18	Midwest	Colorado
+19	Store #19	Northeast	New Hampshire
+20	Store #20	Northeast	New Hampshire
+21	Store #21	Northeast	New Hampshire
+22	Store #22	Northeast	New York
+23	Store #23	Southeast	Georgia
+24	Store #24	Southeast	Georgia
+25	Store #25	Southeast	Florida
+26	Store #26	Southeast	Florida
+27	Store #27	Southeast	Florida
+28	Store #28	Southeast	Florida
+29	Store #29	Southeast	Florida
+30	Store #30	Southeast	Alabama
+31	Store #31	Southeast	Alabama
+32	Store #32	Southeast	Alabama
+33	Store #33	Southeast	Alabama
