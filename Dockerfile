@@ -1,4 +1,4 @@
-FROM ruby:2.0
+FROM ruby:2.1
 RUN apt-get update && apt-get install -y sqlite3 libsqlite3-dev openssl libssl-dev libyaml-dev libreadline-dev libxml2-dev libxslt1-dev
 WORKDIR /opt/myapp
 #ENV RAILS_ENV production
@@ -14,7 +14,7 @@ RUN bundle install
 # This will now install anything in Gemfile.tip
 # This way you can add new gems without rebuilding _everything_ to add 1 gem
 # Anything that was already installed from the main Gemfile will be re-used
-ADD Gemfile.tip /opt/myapp/
+#ADD Gemfile.tip /opt/myapp/
 RUN bundle install
 
 
